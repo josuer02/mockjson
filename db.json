@@ -2,7 +2,9 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Civic",
+      "make": "Honda",
+      "year": 2020
     },
     {
       "id": 2,

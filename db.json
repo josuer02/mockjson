@@ -8,19 +8,27 @@
     },
     {
       "id": 2,
-      "title": "Post 2"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Creta",
+      "make": "Hyundai",
+      "year": 2020
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "title": "Yaris",
+      "make": "Toyota",
+      "year": 2023
+    }
+  ],
+  "citas": [
+    {
+      "id": 1,
+      "name": "miguel",
+      "telefono": 50250560
+    },
+    {
+      "id": 2,
+      "name": "Esteban",
+      "telefono": 12345678
     }
   ],
   "profile": {
